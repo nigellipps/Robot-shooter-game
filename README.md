@@ -6,6 +6,7 @@ TO RUN:
 
 clone the repository:
   $ git clone https://www.github.com/nigellipps/Robot-shooter-game.git
+  
   $ cd Robot-shooter-game
   
 make the project:
